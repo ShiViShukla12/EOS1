@@ -1,5 +1,4 @@
-CC=gcc
-
+CC=arm-linux-gnueabi-gcc
 all: projbin
 
 projbin: main.o add.o sub.o
