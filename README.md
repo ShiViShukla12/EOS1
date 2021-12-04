@@ -1,2 +1,10 @@
 # EOS1
-EOS for my oprating system assigment 
+
+## Embedded oprating system assigment 
+
+
+### Tools
+- Typora
+- Draw IO
+- Shutter
+-
